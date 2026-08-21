@@ -1,0 +1,32 @@
+name: Refresh TfL line status
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch status and push
+        run: |
+          curl -fsS --max-time 30 \
+            "https://api.tfl.gov.uk/Line/Mode/tube,overground,dlr,elizabeth-line/Status" \
+            | jq '{updated: (now | todate), lines: [.[] | {id, name, statuses: [.lineStatuses[] | {severity: .statusSeverity, description: .statusSeverityDescription, reason: (.reason // null)}]}]}' \
+            > status.json
+          jq -e '.lines | length > 0' status.json > /dev/null
+          git config user.name "tfl-status"
+          git config user.email "tfl-status@users.noreply.github.com"
+          git add status.json
+          if git log -1 --format=%s | grep -q '^tfl status'; then
+            git commit --amend -m "tfl status $(date -u +%FT%TZ)"
+            git push --force
+          else
+            git commit -m "tfl status $(date -u +%FT%TZ)"
+            git push
+          fi

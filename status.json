@@ -1,0 +1,214 @@
+{
+  "updated": "2026-10-14T20:49:24Z",
+  "lines": [
+    {
+      "id": "bakerloo",
+      "name": "Bakerloo",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "name": "Central",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Central Line: Minor delays due to train cancellations.  "
+        }
+      ]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "dlr",
+      "name": "DLR",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth line",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "hammersmith-city",
+      "name": "Hammersmith & City",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "lioness",
+      "name": "Lioness",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "metropolitan",
+      "name": "Metropolitan",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "mildmay",
+      "name": "Mildmay",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "northern",
+      "name": "Northern",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "piccadilly",
+      "name": "Piccadilly",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "suffragette",
+      "name": "Suffragette",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "waterloo-city",
+      "name": "Waterloo & City",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "windrush",
+      "name": "Windrush",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    }
+  ]
+}
