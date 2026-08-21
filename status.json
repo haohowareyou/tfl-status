@@ -1,0 +1,214 @@
+{
+  "updated": "2026-10-04T00:44:35Z",
+  "lines": [
+    {
+      "id": "bakerloo",
+      "name": "Bakerloo",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Bakerloo Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "name": "Central",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Circle Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "District Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "dlr",
+      "name": "DLR",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Docklands Light Railway: Service will resume later this morning. There will be no service between Tower Gateway and Shadwell due to planned engineering work. "
+        }
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth line",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "hammersmith-city",
+      "name": "Hammersmith & City",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Hammersmith and City Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "JUBILEE LINE: Sunday 4 October, between 0130 and 0530, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich, Canning Town and Stratford."
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Liberty Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "lioness",
+      "name": "Lioness",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Lioness Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "metropolitan",
+      "name": "Metropolitan",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Metropolitan Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "mildmay",
+      "name": "Mildmay",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Mildmay Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "northern",
+      "name": "Northern",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "piccadilly",
+      "name": "Piccadilly",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "suffragette",
+      "name": "Suffragette",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Suffragette Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "VICTORIA LINE: From 1930 Saturday 3 until 1000 Sunday 4 October, no service between Victoria and Brixton. Please use London Buses services or National Rail services between Victoria and Brixton."
+        }
+      ]
+    },
+    {
+      "id": "waterloo-city",
+      "name": "Waterloo & City",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Waterloo and City Line: Service will resume at 06:00 on Monday. "
+        }
+      ]
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "statuses": [
+        {
+          "severity": 20,
+          "description": "Service Closed",
+          "reason": "Weaver Line: Service will resume later this morning. "
+        }
+      ]
+    },
+    {
+      "id": "windrush",
+      "name": "Windrush",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    }
+  ]
+}
