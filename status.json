@@ -1,0 +1,214 @@
+{
+  "updated": "2026-09-19T16:56:17Z",
+  "lines": [
+    {
+      "id": "bakerloo",
+      "name": "Bakerloo",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Bakerloo Line: Minor delays due to train cancellations.  "
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "name": "Central",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Central Line: Minor delays between North Acton and Ealing Broadway / West Ruislip, and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line.  "
+        }
+      ]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "DISTRICT LINE: Saturday 19 and Sunday 20 September, no service between Earls Court and Ealing Broadway / Richmond. Use MILDMAY LINE services where available between Gunnersbury, Kew Gardens and Richmond. Replacement buses operate."
+        }
+      ]
+    },
+    {
+      "id": "dlr",
+      "name": "DLR",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 19 and Sunday 20 September, no service between Bank / Tower Gateway and Lewisham / Canning Town or between Stratford and Canary Wharf. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate."
+        }
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth line",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "hammersmith-city",
+      "name": "Hammersmith & City",
+      "statuses": [
+        {
+          "severity": 6,
+          "description": "Severe Delays",
+          "reason": "Hammersmith and City Line: Severe delays due to train cancellations. London Buses are accepting tickets via any reasonable route. "
+        }
+      ]
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Jubilee Line: Minor delays due to train cancellations. "
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "lioness",
+      "name": "Lioness",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "metropolitan",
+      "name": "Metropolitan",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Metropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line. "
+        }
+      ]
+    },
+    {
+      "id": "mildmay",
+      "name": "Mildmay",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "northern",
+      "name": "Northern",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "piccadilly",
+      "name": "Piccadilly",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "PICCADILLY LINE: Saturday 19 September, from 0130 and all day Sunday 20 September, including Night Tube, no service between Hyde Park Corner and Acton Town. Replacement buses operate. Use ELIZABETH LINE trains for travel between Central London and Heathrow."
+        }
+      ]
+    },
+    {
+      "id": "suffragette",
+      "name": "Suffragette",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "waterloo-city",
+      "name": "Waterloo & City",
+      "statuses": [
+        {
+          "severity": 4,
+          "description": "Planned Closure",
+          "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        }
+      ]
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "WEAVER LINE: Saturday 19 and Sunday 20 September, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters, and Clapton for Rectory Road. Replacement buses operate. The limited number of GREATER ANGLIA and STANSTED EXPRESS trains which usually serve Seven Sisters stop at Tottenham Hale instead."
+        }
+      ]
+    },
+    {
+      "id": "windrush",
+      "name": "Windrush",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    }
+  ]
+}
