@@ -1,0 +1,214 @@
+{
+  "updated": "2026-09-13T05:59:33Z",
+  "lines": [
+    {
+      "id": "bakerloo",
+      "name": "Bakerloo",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "name": "Central",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "CIRCLE LINE: Saturday 12 and Sunday 13 September, no service between Edgware Road and Aldgate (via Victoria)"
+        }
+      ]
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "DISTRICT LINE: Saturday 12 and Sunday 13 September, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday, please use PICCADILLY LINE services at Earls Court."
+        }
+      ]
+    },
+    {
+      "id": "dlr",
+      "name": "DLR",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth line",
+      "statuses": [
+        {
+          "severity": 3,
+          "description": "Part Suspended",
+          "reason": "No service between Paddington and Heathrow until 07:15 due to emergency engineering work to fix damage to equipment caused by vandalism in the Paddington area. Tickets are being accepted on London Buses and the Piccadilly line via any reasonable route. GOOD SERVICE on the rest of the line. "
+        }
+      ]
+    },
+    {
+      "id": "hammersmith-city",
+      "name": "Hammersmith & City",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "lioness",
+      "name": "Lioness",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Lioness Line: Minor delays due to a sewage leak on the track at Watford High Street. "
+        }
+      ]
+    },
+    {
+      "id": "metropolitan",
+      "name": "Metropolitan",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "mildmay",
+      "name": "Mildmay",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "MILDMAY LINE: Sunday 13 September, no service between Willesden Junction and Richmond. There is also no DISTRICT LINE service between Tower Hill and Richmond / Ealing Broadway. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central, South Acton (Acton Lane), Turnham Green, Chiswick Park, Gunnersbury and Kew Gardens (Royal Botanic Gardens)."
+        }
+      ]
+    },
+    {
+      "id": "northern",
+      "name": "Northern",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "piccadilly",
+      "name": "Piccadilly",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "suffragette",
+      "name": "Suffragette",
+      "statuses": [
+        {
+          "severity": 4,
+          "description": "Planned Closure",
+          "reason": "SUFFRAGETTE LINE: Sunday 13 September, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham), Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road), and local London Buses services between Barking and Barking Riverside. Replacement buses operate."
+        }
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "waterloo-city",
+      "name": "Waterloo & City",
+      "statuses": [
+        {
+          "severity": 4,
+          "description": "Planned Closure",
+          "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        }
+      ]
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "windrush",
+      "name": "Windrush",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "WINDRUSH LINE: Sunday 13 September, until 0900, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN connections to/from Clapham Junction."
+        }
+      ]
+    }
+  ]
+}
