@@ -1,0 +1,214 @@
+{
+  "updated": "2026-10-10T15:15:46Z",
+  "lines": [
+    {
+      "id": "bakerloo",
+      "name": "Bakerloo",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Bakerloo Line: Minor delays due to train cancellations. "
+        }
+      ]
+    },
+    {
+      "id": "central",
+      "name": "Central",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "CIRCLE LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road and Aldgate (via Victoria)"
+        }
+      ]
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "DISTRICT LINE: Saturday 10 and Sunday 11 October, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate."
+        }
+      ]
+    },
+    {
+      "id": "dlr",
+      "name": "DLR",
+      "statuses": [
+        {
+          "severity": 5,
+          "description": "Part Closure",
+          "reason": "DOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October, no service between Stratford International and Woolwich Arsenal. Please use local London Buses, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate."
+        }
+      ]
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth line",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "hammersmith-city",
+      "name": "Hammersmith & City",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Jubilee Line: Minor delays due to an earlier faulty train at West Ham.  "
+        }
+      ]
+    },
+    {
+      "id": "liberty",
+      "name": "Liberty",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "lioness",
+      "name": "Lioness",
+      "statuses": [
+        {
+          "severity": 7,
+          "description": "Reduced Service",
+          "reason": "LIONESS LINE: Saturday 10 and Sunday 11 October, a reduced service will run between Kilburn High Road and Euston. On Saturday, between 0630 and 2030, trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 0715 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road. On Sunday, between 1130 and 2030,  trains departing Watford Junction at 30 minutes past each hour will terminate at Kilburn High Road. From 1215 until 2115, trains departing Euston at 15 minutes past each hour will start from Kilburn High Road"
+        }
+      ]
+    },
+    {
+      "id": "metropolitan",
+      "name": "Metropolitan",
+      "statuses": [
+        {
+          "severity": 9,
+          "description": "Minor Delays",
+          "reason": "Metropolitan Line: Minor delays between Moor Park and Amersham due to train cancellations. The next southbound train will be at 16:48. GOOD SERVICE on the rest of the line. "
+        }
+      ]
+    },
+    {
+      "id": "mildmay",
+      "name": "Mildmay",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "northern",
+      "name": "Northern",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "piccadilly",
+      "name": "Piccadilly",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "suffragette",
+      "name": "Suffragette",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "statuses": [
+        {
+          "severity": 6,
+          "description": "Severe Delays",
+          "reason": "Victoria Line: Severe delays due to an earlier fire alert at Blackhorse Road. Tickets are being accepted on London Buses, Weaver line, Suffragette line, Great Northern, Thameslink, Greater Anglia and South Western Railway services via any reasonable route. "
+        }
+      ]
+    },
+    {
+      "id": "waterloo-city",
+      "name": "Waterloo & City",
+      "statuses": [
+        {
+          "severity": 4,
+          "description": "Planned Closure",
+          "reason": "Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+        }
+      ]
+    },
+    {
+      "id": "weaver",
+      "name": "Weaver",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    },
+    {
+      "id": "windrush",
+      "name": "Windrush",
+      "statuses": [
+        {
+          "severity": 10,
+          "description": "Good Service",
+          "reason": null
+        }
+      ]
+    }
+  ]
+}
